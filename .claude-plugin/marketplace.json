@@ -1,0 +1,14 @@
+{
+  "name": "reel-editor",
+  "owner": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "plugins": [
+    {
+      "name": "reel-editor",
+      "source": "./",
+      "description": "Use when turning long raw footage (B-roll, archive or public-domain video, your own clips) into a short vertical reel or short, or when reviewing one \u2014 picking the moments, where to cut, assembling montages, rhythm, sound, captions, originality and credit."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "reel-editor",
+  "description": "Use when turning long raw footage (B-roll, archive or public-domain video, your own clips) into a short vertical reel or short, or when reviewing one \u2014 picking the moments, where to cut, assembling montages, rhythm, sound, captions, originality and credit.",
+  "version": "1.0.0",
+  "author": {
+    "name": "The Ask Why Company",
+    "url": "https://github.com/theaskwhy"
+  },
+  "license": "MIT"
+}
